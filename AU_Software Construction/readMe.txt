@@ -1,3 +1,8 @@
+Auburn University
+CPSC 2710
+Dr. Rawajfih/ Mr. Tathagata Bhattacharya
+Spring 2022
+
 Welcome to CPSC 2713
 Course Overview
 Welcome to CPSC 2713 Software Construction!
