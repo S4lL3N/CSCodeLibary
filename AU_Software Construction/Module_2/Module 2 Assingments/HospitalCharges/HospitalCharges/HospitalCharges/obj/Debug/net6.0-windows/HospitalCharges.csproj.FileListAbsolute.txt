@@ -1,0 +1,17 @@
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\HospitalCharges\HospitalCharges\HospitalCharges\bin\Debug\net6.0-windows\HospitalCharges.exe
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\HospitalCharges\HospitalCharges\HospitalCharges\bin\Debug\net6.0-windows\HospitalCharges.deps.json
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\HospitalCharges\HospitalCharges\HospitalCharges\bin\Debug\net6.0-windows\HospitalCharges.runtimeconfig.json
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\HospitalCharges\HospitalCharges\HospitalCharges\bin\Debug\net6.0-windows\HospitalCharges.dll
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\HospitalCharges\HospitalCharges\HospitalCharges\bin\Debug\net6.0-windows\ref\HospitalCharges.dll
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\HospitalCharges\HospitalCharges\HospitalCharges\bin\Debug\net6.0-windows\HospitalCharges.pdb
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\HospitalCharges\HospitalCharges\HospitalCharges\obj\Debug\net6.0-windows\HospitalCharges.csproj.AssemblyReference.cache
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\HospitalCharges\HospitalCharges\HospitalCharges\obj\Debug\net6.0-windows\HospitalCharges.Form1.resources
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\HospitalCharges\HospitalCharges\HospitalCharges\obj\Debug\net6.0-windows\HospitalCharges.csproj.GenerateResource.cache
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\HospitalCharges\HospitalCharges\HospitalCharges\obj\Debug\net6.0-windows\HospitalCharges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\HospitalCharges\HospitalCharges\HospitalCharges\obj\Debug\net6.0-windows\HospitalCharges.AssemblyInfoInputs.cache
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\HospitalCharges\HospitalCharges\HospitalCharges\obj\Debug\net6.0-windows\HospitalCharges.AssemblyInfo.cs
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\HospitalCharges\HospitalCharges\HospitalCharges\obj\Debug\net6.0-windows\HospitalCharges.csproj.CoreCompileInputs.cache
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\HospitalCharges\HospitalCharges\HospitalCharges\obj\Debug\net6.0-windows\HospitalCharges.dll
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\HospitalCharges\HospitalCharges\HospitalCharges\obj\Debug\net6.0-windows\ref\HospitalCharges.dll
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\HospitalCharges\HospitalCharges\HospitalCharges\obj\Debug\net6.0-windows\HospitalCharges.pdb
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\HospitalCharges\HospitalCharges\HospitalCharges\obj\Debug\net6.0-windows\HospitalCharges.genruntimeconfig.cache

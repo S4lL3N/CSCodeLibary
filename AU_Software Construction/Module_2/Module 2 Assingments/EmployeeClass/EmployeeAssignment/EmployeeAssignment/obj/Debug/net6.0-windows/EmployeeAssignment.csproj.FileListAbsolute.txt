@@ -1,0 +1,17 @@
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\EmployeeClass\EmployeeAssignment\EmployeeAssignment\obj\Debug\net6.0-windows\EmployeeAssignment.csproj.AssemblyReference.cache
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\EmployeeClass\EmployeeAssignment\EmployeeAssignment\obj\Debug\net6.0-windows\EmployeeAssignment.Form1.resources
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\EmployeeClass\EmployeeAssignment\EmployeeAssignment\obj\Debug\net6.0-windows\EmployeeAssignment.csproj.GenerateResource.cache
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\EmployeeClass\EmployeeAssignment\EmployeeAssignment\obj\Debug\net6.0-windows\EmployeeAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\EmployeeClass\EmployeeAssignment\EmployeeAssignment\obj\Debug\net6.0-windows\EmployeeAssignment.AssemblyInfoInputs.cache
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\EmployeeClass\EmployeeAssignment\EmployeeAssignment\obj\Debug\net6.0-windows\EmployeeAssignment.AssemblyInfo.cs
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\EmployeeClass\EmployeeAssignment\EmployeeAssignment\obj\Debug\net6.0-windows\EmployeeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\EmployeeClass\EmployeeAssignment\EmployeeAssignment\bin\Debug\net6.0-windows\EmployeeAssignment.exe
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\EmployeeClass\EmployeeAssignment\EmployeeAssignment\bin\Debug\net6.0-windows\EmployeeAssignment.deps.json
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\EmployeeClass\EmployeeAssignment\EmployeeAssignment\bin\Debug\net6.0-windows\EmployeeAssignment.runtimeconfig.json
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\EmployeeClass\EmployeeAssignment\EmployeeAssignment\bin\Debug\net6.0-windows\EmployeeAssignment.dll
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\EmployeeClass\EmployeeAssignment\EmployeeAssignment\bin\Debug\net6.0-windows\ref\EmployeeAssignment.dll
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\EmployeeClass\EmployeeAssignment\EmployeeAssignment\bin\Debug\net6.0-windows\EmployeeAssignment.pdb
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\EmployeeClass\EmployeeAssignment\EmployeeAssignment\obj\Debug\net6.0-windows\EmployeeAssignment.dll
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\EmployeeClass\EmployeeAssignment\EmployeeAssignment\obj\Debug\net6.0-windows\ref\EmployeeAssignment.dll
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\EmployeeClass\EmployeeAssignment\EmployeeAssignment\obj\Debug\net6.0-windows\EmployeeAssignment.pdb
+C:\Users\S4lL3\Documents\Code Library\C#\Software Construction\M2_Assignment\EmployeeClass\EmployeeAssignment\EmployeeAssignment\obj\Debug\net6.0-windows\EmployeeAssignment.genruntimeconfig.cache
