@@ -1,0 +1,14 @@
+Reading
+Required:
+
+4.1 - 4.6
+
+4.11 Introduction to List Boxes
+
+5.2 - 5.5 (Loops)
+
+5.9 The Load Event
+
+Chapter 6
+
+9.1 - 9.3 + 9.5 (Classes)
