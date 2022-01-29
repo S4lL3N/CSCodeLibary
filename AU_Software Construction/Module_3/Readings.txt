@@ -1,0 +1,13 @@
+Reading
+3.7 Simple Exception Handling
+5.8 Random Numbers
+
+Chapter 7: Arrays and Lists
+8.1 String and Character Processing
+
+8.3 Structures 
+
+8.4 Enumerated Types 
+
+NuGet Package Manager: https://docs.microsoft.com/en-us/nuget/tools/package-manager-ui (Links to an external site.)
+Unit Testing with NUnit: https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-nunit
