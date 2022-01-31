@@ -1,0 +1,11 @@
+G:\My Drive\ModornUI_Project\ModernUI\ModernUI\bin\Debug\ModernUI.exe.config
+G:\My Drive\ModornUI_Project\ModernUI\ModernUI\bin\Debug\ModernUI.exe
+G:\My Drive\ModornUI_Project\ModernUI\ModernUI\bin\Debug\ModernUI.pdb
+G:\My Drive\ModornUI_Project\ModernUI\ModernUI\obj\Debug\ModernUI.csproj.AssemblyReference.cache
+G:\My Drive\ModornUI_Project\ModernUI\ModernUI\obj\Debug\ModernUI.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\ModornUI_Project\ModernUI\ModernUI\obj\Debug\ModernUI.Form1.resources
+G:\My Drive\ModornUI_Project\ModernUI\ModernUI\obj\Debug\ModernUI.Properties.Resources.resources
+G:\My Drive\ModornUI_Project\ModernUI\ModernUI\obj\Debug\ModernUI.csproj.GenerateResource.cache
+G:\My Drive\ModornUI_Project\ModernUI\ModernUI\obj\Debug\ModernUI.csproj.CoreCompileInputs.cache
+G:\My Drive\ModornUI_Project\ModernUI\ModernUI\obj\Debug\ModernUI.exe
+G:\My Drive\ModornUI_Project\ModernUI\ModernUI\obj\Debug\ModernUI.pdb
