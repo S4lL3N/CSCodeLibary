@@ -1,0 +1,13 @@
+Reading
+4.8 Input Validation
+
+4.9 Radio Buttons and Check Boxes
+
+5.1 More About ListBoxes
+
+9.6 Creating Multiple Forms in a Project
+Walkthrough: Creating a Windows Forms Control That Takes Advantage of Visual Studio Design-Time Features:
+
+https://docs.microsoft.com/en-us/dotnet/framework/winforms/controls/creating-a-wf-control-design-time-features (Links to an external site.)
+
+Stack <T> Class: https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.stack-1?redirectedfrom=MSDN&view=netframework-4.7.2&viewFallbackFrom=netframework-4.7.2
