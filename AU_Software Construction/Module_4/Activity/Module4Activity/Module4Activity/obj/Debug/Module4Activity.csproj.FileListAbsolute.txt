@@ -1,0 +1,12 @@
+C:\Users\S4lL3\Desktop\Module 4 Activity\Module4Activity\Module4Activity\obj\Debug\Module4Activity.csproj.AssemblyReference.cache
+C:\Users\S4lL3\Desktop\Module 4 Activity\Module4Activity\Module4Activity\obj\Debug\Module4Activity.csproj.SuggestedBindingRedirects.cache
+C:\Users\S4lL3\Desktop\Module 4 Activity\Module4Activity\Module4Activity\obj\Debug\Module4Activity.Properties.Resources.resources
+C:\Users\S4lL3\Desktop\Module 4 Activity\Module4Activity\Module4Activity\obj\Debug\Module4Activity.csproj.GenerateResource.cache
+C:\Users\S4lL3\Desktop\Module 4 Activity\Module4Activity\Module4Activity\obj\Debug\Module4Activity.csproj.CoreCompileInputs.cache
+C:\Users\S4lL3\Desktop\Module 4 Activity\Module4Activity\Module4Activity\bin\Debug\Module4Activity.exe.config
+C:\Users\S4lL3\Desktop\Module 4 Activity\Module4Activity\Module4Activity\bin\Debug\Module4Activity.exe
+C:\Users\S4lL3\Desktop\Module 4 Activity\Module4Activity\Module4Activity\bin\Debug\Module4Activity.pdb
+C:\Users\S4lL3\Desktop\Module 4 Activity\Module4Activity\Module4Activity\obj\Debug\Module4Activity.exe
+C:\Users\S4lL3\Desktop\Module 4 Activity\Module4Activity\Module4Activity\obj\Debug\Module4Activity.pdb
+C:\Users\S4lL3\Desktop\Module 4 Activity\Module4Activity\Module4Activity\obj\Debug\Module4Activity.MainForm.resources
+C:\Users\S4lL3\Desktop\Module 4 Activity\Module4Activity\Module4Activity\obj\Debug\Module4Activity.TotalForm.resources
