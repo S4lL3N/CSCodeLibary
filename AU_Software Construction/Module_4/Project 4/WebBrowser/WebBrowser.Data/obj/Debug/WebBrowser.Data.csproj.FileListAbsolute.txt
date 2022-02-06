@@ -1,0 +1,11 @@
+C:\Users\S4lL3\Desktop\test\WebBrowser\WebBrowser.Data\bin\Debug\WebBrowser.Data.dll
+C:\Users\S4lL3\Desktop\test\WebBrowser\WebBrowser.Data\bin\Debug\WebBrowser.Data.pdb
+C:\Users\S4lL3\Desktop\test\WebBrowser\WebBrowser.Data\obj\Debug\WebBrowser.Data.csproj.CoreCompileInputs.cache
+C:\Users\S4lL3\Desktop\test\WebBrowser\WebBrowser.Data\obj\Debug\WebBrowser.Data.dll
+C:\Users\S4lL3\Desktop\test\WebBrowser\WebBrowser.Data\obj\Debug\WebBrowser.Data.pdb
+C:\Users\S4lL3\Desktop\WebBrowser\WebBrowser\WebBrowser.Data\bin\Debug\WebBrowser.Data.dll
+C:\Users\S4lL3\Desktop\WebBrowser\WebBrowser\WebBrowser.Data\bin\Debug\WebBrowser.Data.pdb
+C:\Users\S4lL3\Desktop\WebBrowser\WebBrowser\WebBrowser.Data\obj\Debug\WebBrowser.Data.csproj.AssemblyReference.cache
+C:\Users\S4lL3\Desktop\WebBrowser\WebBrowser\WebBrowser.Data\obj\Debug\WebBrowser.Data.csproj.CoreCompileInputs.cache
+C:\Users\S4lL3\Desktop\WebBrowser\WebBrowser\WebBrowser.Data\obj\Debug\WebBrowser.Data.dll
+C:\Users\S4lL3\Desktop\WebBrowser\WebBrowser\WebBrowser.Data\obj\Debug\WebBrowser.Data.pdb
