@@ -1,0 +1,15 @@
+Reading
+Required:
+
+5.1 More about ListBoxes
+5.6 Using Files for Data Storage
+5.7 The OpenFileDialog and SaveFileDialog Controls
+Chapter 11
+Optional:
+
+Walkthrough: Creating a Master/Detail Form Using Two Windows Forms DataGridView Controls
+https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-3.0/y8c0cxey%28v%3dvs.85%29 (Links to an external site.)
+How to: Bind Objects to Windows Forms DataGridView Controls
+https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-3.0/y0wfd4yz%28v%3dvs.85%29 (Links to an external site.)
+Walkthrough: Laying Out Windows Forms Controls with Padding, Margins, and the AutoSize Property
+https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/3z3f9e8b(v=vs.100)
