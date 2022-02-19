@@ -1,0 +1,4 @@
+Reading
+Chapter 10: Inheritance and Polymorphism
+How to: Create a Windows Forms Control That Shows Progress
+https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-3.0/ms229628%28v%3dvs.85%29
